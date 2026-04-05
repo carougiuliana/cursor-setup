@@ -1,2 +1,2 @@
 # cursor-setup
-I consider myself a self-taught person with the ability to adapt to new tools. I installed Cursor IDE, configured the environment, added extensions, and created a GitHub repository to document the process. This exercise strengthened my autonomous learning skills.
+I quickly adapted to new tools by setting up a structured environment for this task. As an initial challenge, I noticed limited storage space, so I organized my system to avoid issues. I then installed Cursor IDE, configured the environment, added the Claude Code and Codex extensions, and created a GitHub repository to document the process.
